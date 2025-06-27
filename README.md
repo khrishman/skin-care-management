@@ -25,3 +25,7 @@ Simply run the `main.py` file:
 
 ```bash
 python main.py
+
+<br>
+Author - Khrishman Khadka
+```
